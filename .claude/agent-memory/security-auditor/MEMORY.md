@@ -1,0 +1,2 @@
+- [OIDC/IAM gap](project_oidc_gap.md) — CI IAM role/OIDC trust policy not in terraform/, hardcoded ARNs in deploy.yml
+- [Missing .gitignore](project_missing_gitignore.md) — no .gitignore repo-wide; risk of committing local tfstate during backend bootstrap

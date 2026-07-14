@@ -1,0 +1,1 @@
+- [Portfolio Site Cost Audit](portfolio-site-audit.md) — Static site infrastructure cost optimization findings; 5 issues ranked by impact, $400-600/year savings possible
